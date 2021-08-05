@@ -2,6 +2,10 @@
 
 A webApp which is replica of facebook-messenger-group-chat. A group of people can chat on real time but first they need to login with there username(compulsory step) otherwise user would not be able to see previous chat of group members. Current user would see his messages on right side of window in blue color and would be able to see other members messages on left side of window in white color. All messages are sorted according to their timestamp. An AutoScroll functionality is added through which user will always be able to see latest messages in the bottom side.
 
+Tech Stack used:
+UI: React.js 
+Database: firebase
+
 ## Available Scripts
 
 In the project directory, you can run:
